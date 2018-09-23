@@ -8,4 +8,5 @@
 Code is developed for C++11 gcc due to Riddles.io constraints, but I've been using VS2017 myself.
 
 Finals results: https://starapple.riddles.io/competitions/game-of-life-and-death/discussions/discussion/b292afb5-2e65-4deb-a20a-47d4f210d52a/1
+
 Pre-final ranking: (Select "Ranked" or "Lockdown" in the drop down) https://starapple.riddles.io/competitions/game-of-life-and-death/leaderboard
