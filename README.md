@@ -13,16 +13,17 @@ Pre-final ranking: (Select "Ranked" or "Lockdown" in the drop down) https://star
 
 # How it works
 Rules: https://docs.riddles.io/game-of-life-and-death/rules
+
 In short, my bot uses a minimax search with alpha-beta pruning. It evaluates nodes based on one neural net and suggests moves based on another. To reduce the complexity of the search, we suggest partial moves only, which are then combined into full moves (one "Birth" move consists of one "Birth" part and two "Kill" parts).
 
-# Watch it play
+## Watch it play
 
-## Against average bot (ranked 47 of 104 in qualification)
+### Against average bot (ranked 47 of 104 in qualification)
 https://starapple.riddles.io/competitions/game-of-life-and-death/matches/ddfd1c37-d625-48f1-bd3d-9fdd8087629a
-## Against bot #3
+### Against bot #3
 https://starapple.riddles.io/competitions/game-of-life-and-death/leaderboard
-## Against bot #1
+### Against bot #1
 Of ~500 games in the finals (48 of which against bot #1), this is the only one I lost :)
 https://starapple.riddles.io/competitions/game-of-life-and-death/matches/6a0b02ff-e2da-487d-9d32-498ee933c08f
-## All finals games:
+### All finals games:
 https://starapple.riddles.io/competitions/game-of-life-and-death/match-log/finals/1
